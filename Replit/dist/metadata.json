@@ -1,0 +1,22 @@
+{
+    "author": {
+      "name": "MasterofMasters",
+      "id": "357855713919369216"
+    },
+    "service": "Replit",
+    "description": {
+      "en": "Get your ideas out there. Stop wasting time setting up a development environment. Repl.it gives you an instant IDE to learn, build, collaborate, and host all in one place. "
+    },
+    "url": [
+      "repl.it"
+    ],
+    "version": "1.0",
+    "logo": "https://i.postimg.cc/PJrf8Cf2/index.jpg",
+    "thumbnail": "https://i.postimg.cc/59H9q37B/replit.png",
+    "color": "#000000",
+    "tags": [
+      "coding",
+      "hosting"
+    ],
+    "category": "other"
+  }
